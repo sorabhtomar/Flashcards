@@ -1,4 +1,5 @@
 # Project exclude paths
+/.idea/
 /.gradle/
 /Flashcards/A good stack/task/build/
 /Flashcards/A good stack/task/out/
