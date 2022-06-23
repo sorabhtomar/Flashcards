@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/A good stack/task/build/
+/Flashcards/A good stack/task/out/
+/Flashcards/A good stack/task/out/production/classes/
+/Flashcards/Make it your own/task/build/
+/Flashcards/Make it your own/task/out/
+/Flashcards/Make it your own/task/out/production/classes/
+/Flashcards/Menu, please/task/build/
+/Flashcards/Menu, please/task/out/
+/Flashcards/Menu, please/task/out/production/classes/
+/Flashcards/Stage one, card one/task/build/
+/Flashcards/Statistics/task/build/
+/Flashcards/Statistics/task/out/
+/Flashcards/Statistics/task/out/production/classes/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Flashcards/What’s on the card/task/build/
