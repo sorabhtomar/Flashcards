@@ -1,0 +1,13 @@
+Term|Definition
+Navigator|Nami
+Musician|Brook
+Cook|Vinsmoke Sanji
+Swordsman|Roronoa Zoro
+Doctor|Chopper
+Shipwright|Franky
+Oni|Yamato
+Pirate King|Gol D. Roger
+Captain|Monkey D. Luffy
+Sniper|Usopp
+Archeologist|Nico Robin
+Helmsman|Jinbe
